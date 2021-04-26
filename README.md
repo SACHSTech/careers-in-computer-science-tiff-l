@@ -27,7 +27,7 @@ SDETs are to contribute and review the creation of designs for production softwa
 ### Technical and Non-Technical Skills
 | Technical Skills | Non-Technical Skills |
 | ---------------- | -------------------- |
-|- Knowledge of C#, Java or other programming languages <br> - Be familiar with the “AGILE” management methodology. <br> - Knowledge about several test method <br>- Be familiar with Behaviour Driven Development <br> - Be knowledgeable on Object-Oriented Design <br>|- Communication: All reports, test strategies, plans, test cases, etc. must be easy to read and understand. <br> - Time management/organization skills:SDET must be able to manage the world load and be highly productive. <br> - Good attitude: Should be independent, so you can work with minimal supervision. <br> - Passion: You must be passionate about what you do - testing, development and designing. |
+|<ul> <li> Knowledge of C#, Java or other programming languages </li> <li> Be familiar with the “AGILE” management methodology. </li> <li>Knowledge about several test method </li> <li> Be familiar with Behaviour Driven Development </li> <li> Be knowledgeable on Object-Oriented Design </li> </ul> |<ul> <li> Communication: All reports, test strategies, plans, test cases, etc. must be easy to read and understand.</li> <li> Time management/organization skills:SDET must be able to manage the world load and be highly productive. </li> <li> Good attitude: Should be independent, so you can work with minimal supervision. </li> <li> Passion: You must be passionate about what you do - testing, development and designing.</li> </ul> |
 
 ### Salary Range
 The salary ranges from $50,000 - $102,000 , and the average annual salary is about $74,000.
