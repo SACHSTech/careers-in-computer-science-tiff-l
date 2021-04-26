@@ -27,11 +27,7 @@ SDETs are to contribute and review the creation of designs for production softwa
 ### Technical and Non-Technical Skills
 | Technical Skills | Non-Technical Skills |
 | ---------------- | -------------------- |
-|- Knowledge of C#, Java or other programming languages <br> - test|Communication: All reports, test strategies, plans, test cases, etc. must be easy to read and understand.|
-|Be familiar with the “AGILE” management methodology.|Time management/organization skills:SDET must be able to manage the world load and be highly productive.|
-|Knowledge about several test method|Good attitude: Should be independent, so you can work with minimal supervision.|
-|Be familiar with Behaviour Driven Development|Passion: You must be passionate about what you do - testing, development and designing. |
-|Be knowledgeable on Object-Oriented Design ||
+|- Knowledge of C#, Java or other programming languages <br> - Be familiar with the “AGILE” management methodology. <br> - Knowledge about several test method <br>- Be familiar with Behaviour Driven Development <br> - Be knowledgeable on Object-Oriented Design <br>|- ommunication: All reports, test strategies, plans, test cases, etc. must be easy to read and understand. <br> - Time management/organization skills:SDET must be able to manage the world load and be highly productive. <br> - Good attitude: Should be independent, so you can work with minimal supervision. <br> - Passion: You must be passionate about what you do - testing, development and designing. |
 
 
 
