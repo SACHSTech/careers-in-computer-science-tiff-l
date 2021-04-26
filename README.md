@@ -35,7 +35,7 @@ ___
 
 ## Starndard Education
 ### Undergraduate Program
-The *University of Waterloo* is the second best school in Canada for engineering. It offers a ***software engineering*** program that is well recognized and can lead you to several job opportunities, one of which being a <u>software development engineer, test (SDET).</u>
+The *University of Waterloo* is the second best school in Canada for engineering. It offers a ***software engineering*** program that is well recognized and can lead you to several job opportunities, one of which being a <ins>software development engineer, test (SDET).</ins>
 ### Entrance Requirements
 ### First Year Courses
 ### Degree and Diploma Requirements
