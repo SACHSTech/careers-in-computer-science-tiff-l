@@ -1,5 +1,7 @@
 [![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=4658959&assignment_repo_type=AssignmentRepo)
 # Careers in Computer Science
+#### [Mid Level](https://ca.indeed.com/viewjob?cmp=Kortext&t=Software+Development+Manager&jk=91337a87dd15b466&sjdu=0ZFwD5rbjMRcHz87Kzx_g56RE8uTOzMI6lFRz5oKCG6jKXSJpNAiKq15MUxAzfb25EkT8GdeKrIg3Xi44zf0iA&tk=1f3vt90e13kl8000&adid=367673658&ad=-6NYlbfkN0ATA-436Np_sDHyRyXgfnC7r)
+
 ### Software Development Engineer, Test (SDET)
 ## Table of Contents
 * [The Basics](#The-Basics) <br>
