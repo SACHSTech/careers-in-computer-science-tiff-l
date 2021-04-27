@@ -77,10 +77,30 @@ The *University of Waterloo* is the second best school in Canada for engineering
 | Seminar | [SE 102](http://ugradcalendar.uwaterloo.ca/courses.aspx?Level=102&Code=SE&Number=102) |
 
 ### Degree and Diploma Requirements
-* comple
+##### Complete 10 electives from the following categories: 
+* Advanced Technical Electives (x3):
+  * Cs Course (x1)
+  * ECE Course (x1)
+  * Other (x1)
+* Science electives 
+* Linkage electives 
+* Other electives or 0.5 credit courses (x2)
+
+##### Other Requirements
+* One elective third year
+* Three/four electives fourth year
+* Communication skills
+* Three Work-Term Reports
+* Five Professional Development Courses
+
 
 ### Program length
-The program takes 5 years to complete with alternating work and study terms. 
+The program takes 5 years to complete with alternating work and study terms each year. The co-op allows students to graduate with **2 years of work experience** and a **Bachelor of Software Engineering degree**.
+
+|Sample co-op job titles|Sample co-op employers|
+|-----------------------|----------------------|
+|<ul><li> Tools and automation engineering intern </li> <li> Data scientist </li> <li> Mobile developer </li> <li> Software developer </li> <li> iOS developer </li> <li> Production engineering </li> <li> Algorithms engineering </li> <li>|<ul><li> Mozilla Corporation </li> <li> Bloomberg</li> <li> LinkedIn</li> <li> Waterloo Regional Police Service</li> <li> Element AI</li> <li> ContextLogic</li> <li>|
+
 ___
 
 ## Experiential Learning
@@ -106,7 +126,7 @@ ___
 * Familiarity with container orchestration services, especially Kubernetes
 * Knowledge of AWS or Google Cloud platform
 
-### Mid Level Position: [Software Developer in Test (Remote)] (https://ca.indeed.com/viewjob?jk=0857464b3c86a5bb&tk=1f463u4a1t5d1800&from=serp&vjs=3) (TradeRev)
+### Mid Level Position: [Software Developer in Test - Remote] (https://ca.indeed.com/viewjob?jk=0857464b3c86a5bb&tk=1f463u4a1t5d1800&from=serp&vjs=3) (TradeRev)
 #### Average base salary:~ $80,000
 #### City: Toronto, Ontario
 #### Job Description:
