@@ -262,7 +262,7 @@ ___
 ## Works Cited
 “Average Software Development Engineer, Test (SDET) Salary in Canada.” *PayScale,* https://www.payscale.com/research/CA/Job=Software_Development_Engineer%2C_Test_(SDET)/Salary. <br> <br>
 “Faculty of Engineering.” *The Undergraduate Calendar*, https://ugradcalendar.uwaterloo.ca/page/ENG-Software-Engineering.<br> <br>
-“Procom.” *Jobillico*, https://www.jobillico.com/medias/logo-entreprise/0/0/exp_logo_18150_en_2018_12_12_13_48_28.jpg. 
+“Procom.” *Jobillico*, https://www.jobillico.com/medias/logo-entreprise/0/0/exp_logo_18150_en_2018_12_12_13_48_28.jpg. <br><br>
 “Q: How Much Do Entry Level SDET Jobs Pay per Week in 2021?” *ZipRecruiter*, https://www.ziprecruiter.com/Salaries/Entry-Level-SDET-Salary-per-Week.<br> <br>
 “Salary: Software Development Engineer, Test (SDET).” *Glassdoor*, 2021, https://www.glassdoor.ca/Salaries/canada-software-development-engineer-in-test-sdet-salary-SRCH_IL.0,6_IN3_KO7,49.htm.<br> <br>
 “SDET Job Description.”* Betterteam*, https://www.betterteam.com/sdet-job-description#:~:text=SDET%20Responsibilities%3A&text=Understanding%20project%20documents%2C%20customer%20demands,test%20scenarios%20and%20acceptance%20tests.<br> <br>
