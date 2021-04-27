@@ -174,7 +174,8 @@ There are several workshops and online courses that will help you develop your s
 ___
 
 ## Real Jobs
-### Entry Level Position: [Software Developer & Tester Engineer] (https://ca.indeed.com/viewjob?cmp=TELUS-International-Inc.&t=Software+Developer+Tester+Engineer&jk=b69d53cbc0f5597f&sjdu=vQIlM60yK_PwYat7ToXhk9I8NiHOQ-7v2o66QU9DKp1ihYZv_xLWNMMWyMfMuxZyl_vnP633RrxD4HT5MvVu80xcvLV-rR64htOg-EbC9KQ&tk=1f463q5i0t4sm800&adid=367011588&ad=-6NYlbfkN0AXOS-p184M3UWpL0ZA__paQeiiLmiJQR66h7CC6KXPATo-tyEtkz3QvFu0UAYLcHDwhLIllqhE-qEzprob4exHJc_9PhcjyDn1odha5ozMI2aL3VFckIXTxBPEJszv_UTweJ_9OhNlurcgvLjtKUlckUO7VeCwl79jdXkwPaT1s46T-8uxrcvrpEz6W-A7kGrFaq3v69PXh5JBZTc2U-AjRQhjVYU4mDpNSVE3XFrTzIWZwGLFxixc0x8lNAXIye6Cyds1lGPWqSjNlJFWvmHNlgYwUELs1kGOSjBPFpNRX4s09NthP9lv7XkH-UF_AUsSnk405chTNtrwc47oMXqC&pub=4a1b367933fd867b19b072952f68dceb&vjs=3) 
+### Entry Level Position: 
+[Software Developer & Tester Engineer] (https://ca.indeed.com/viewjob?cmp=TELUS-International-Inc.&t=Software+Developer+Tester+Engineer&jk=b69d53cbc0f5597f&sjdu=vQIlM60yK_PwYat7ToXhk9I8NiHOQ-7v2o66QU9DKp1ihYZv_xLWNMMWyMfMuxZyl_vnP633RrxD4HT5MvVu80xcvLV-rR64htOg-EbC9KQ&tk=1f463q5i0t4sm800&adid=367011588&ad=-6NYlbfkN0AXOS-p184M3UWpL0ZA__paQeiiLmiJQR66h7CC6KXPATo-tyEtkz3QvFu0UAYLcHDwhLIllqhE-qEzprob4exHJc_9PhcjyDn1odha5ozMI2aL3VFckIXTxBPEJszv_UTweJ_9OhNlurcgvLjtKUlckUO7VeCwl79jdXkwPaT1s46T-8uxrcvrpEz6W-A7kGrFaq3v69PXh5JBZTc2U-AjRQhjVYU4mDpNSVE3XFrTzIWZwGLFxixc0x8lNAXIye6Cyds1lGPWqSjNlJFWvmHNlgYwUELs1kGOSjBPFpNRX4s09NthP9lv7XkH-UF_AUsSnk405chTNtrwc47oMXqC&pub=4a1b367933fd867b19b072952f68dceb&vjs=3) 
 ![alt text](https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/Telus_logo.svg/1280px-Telus_logo.svg.png)
 #### Average base salary: ~ $57,000 
 #### City: Toronto, Ontario
