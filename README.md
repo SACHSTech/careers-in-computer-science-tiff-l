@@ -2,13 +2,13 @@
 # Careers in Computer Science
 ### Software Development Engineer, Test (SDET)
 ## Table of Contents
-* [The Basics](#TheBasics) <br>
-* [Standard Education](#1.2) <br>
-* [Experiential Learning](#1.3) <br>
-* [Real Jobs](#1.4) <br>
-* [Works Cited](#WorksCited) <br>
+* [The Basics](#The-Basics) <br>
+* [Standard Education](#Standard-Education) <br>
+* [Experiential Learning](#Experiential-Learning) <br>
+* [Real Jobs](#Real-Jobs) <br>
+* [Works Cited](#Works-Cited) <br>
 
-## The Basics
+## The Basics 
 ### Description
 SDETs are to contribute and review the creation of designs for production softwares. Some responsibilities include software development and testing tasks. They also focus on the testability, robustness, and performance of production software. A SDET is a test professional with advanced programming skills who develops automation testing methods and applications to help with manual testing. 
 ### Responsibilities 
@@ -105,6 +105,66 @@ ___
 
 ## Experiential Learning
 
+### Essential skills
+###### *These are a list of skills that you can develop on your own*
+
+* Enhance development skills
+  * Have a firm grasp of programming logic and concepts
+    * Object oriented programming, decision structures, repetition structures, data structures
+  * Ensure you have clean coding practice and use design patterns as they are critical for maintenance, reusability and extendability. 
+* Enhance testing skills
+  * This includes being able to balance and switch between the developer and tester mindset that the role requires. 
+* Explore new tools
+  * Not all challenges can be solved with the same tool. Therefore, SDETs must continuously evaluate and add to their collection of tools. 
+  * You must know how to effectively use each tool. 
+  * Analyze the problem and choose which tool is a good fit, rather than solving the problem several times with different tools to find the most effective solution. 
+* Soft skills
+  * Communication 
+  * Leadership
+  * Creativity
+* Keep learning
+  * Take testing to the next level
+  * Keep up with QAs evolution 
+  * Practice, practice, practice
+
+
+### Co-ops
+Through co-op jobs you will be able to practice your knowledge and skills. It will give you the opportunity to apply this knowledge in the real world and help you develop and enhance both your technical and non-technical skills.
+
+Many universities offer co-op programs that allow you to gain real work experience while studying. In addition you may make $50,000 - $60,000 over five years. 
+
+|Example co-op job titles|Example co-op employers|
+|-----------------------|----------------------|
+|<ul><li> Tools and automation engineering intern </li> <li> Data scientist </li> <li> Mobile developer </li> <li> Software developer </li> <li> iOS developer </li> <li> Production engineering </li> <li> Algorithms engineering </li> </ul>|<ul><li> Mozilla Corporation </li> <li> Bloomberg</li> <li> LinkedIn</li> <li> Waterloo Regional Police Service</li> <li> Element AI</li> <li> ContextLogic</li> </ul>|
+
+
+### Internships
+Internships are also a great way to gain experience. It allows you to apply what you’ve learned in a real-world setting. You’ll be mentored during the experience which allows you to gain insight into what the career entails. Additionally it helps you to build your network. It is important to make connections, as they can provide you with information and help you find jobs in the future. You can also use them as references as they have seen you in action and know your strengths. 
+
+#### Example: Software Development Engineer Intern [(Amazon Web Services Canada, In)] (https://www.peersight.in/job/amazon-web-services-canada-in-software-development-engineer-intern-in-vancouver-bc?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+##### Location: Vancouver, BC
+##### Requirements: 
+* Currently enrolled in Associate’s Degree in a STEM related field such as IT, Computer Science, Computer Engineering
+* Proficiency in one of the following languages: Java, C++, or C
+##### Description: 
+“ Do you want to solve business challenges through innovative technology? Do you enjoy working on cutting-edge, massively scalable services technology in a fast-paced team environment? Do you love working on industry defining projects that move the needle?
+We are looking for future Amazon interns to join us for summer 2020. Amazon interns have the opportunity to work alongside the industry’s brightest engineers who innovate everyday on behalf of our customers. Our interns write real software and partner with a select group of experienced software development engineers, who both help and challenge them as they work on projects that matter to our customers.
+As an intern, you will be matched to a manager and a mentor. You will be given the opportunity to have direct impact on the evolution of Amazon's technologies as well as lead mission critical projects early in your career. Your design, code, and raw smarts will contribute to solving some of the most complex technical challenges in the areas of distributed systems, data mining, automation, optimization, scalability, and security - just to name a few.
+In addition to an impactful project, you will have the opportunity to engage with Amazonians in both personal and professional development, expand your network, and take part in fun activities throughout the summer. No matter the location of your internship, we give you the tools to own your summer and learn in a real world setting. Many of our technologies overlap—you would be hard pressed to find a team that is not using Amazon Web Services (AWS), touching the catalogue, or iterating services to better personalize for customers.
+If this excites you, come build the future with us.
+Amazon internships are full-time (40 hours/week) for 12 consecutive weeks with start dates between May and September 2020. Applicants should have at a minimum one quarter/semester remaining after their internship concludes. “
+
+### Workshops + Online Tools
+There are several workshops and online courses that will help you develop your skills as a SDET, learn the fundamentals or even help you become one.  For example, using [Udemy] (https://www.udemy.com/course/selenium-automation-tester-interview-preparation/) you will learn the following: 
+
+* Understanding the Realtime Test environments and Agile Implementation
+* Master the Core Java concepts and DataStructures needed to get you hired
+* Functional Testing: UI and API(Web service) Testing using Selenium WebDriver, RestAssured etc
+* Non-functional testing: Cross-browser & Performance testing using SauceLabs, Blazemeter, New Relic APM
+* Integrate Docker + Selenium Grid + Jenkins and run the tests. Jenkins plugins and more
+* Learn Amazon Web Services/ AWS : IAM, EC2 instances, S3 storage, Code deploy that you need as SDET
+* Build and Release Management using Maven and GIT
+* Apply for following roles: SDET / Automation Engineer / Performance Engineer
 ___
 
 ## Real Jobs
