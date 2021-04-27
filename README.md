@@ -8,6 +8,9 @@
 * [Real Jobs](#Real-Jobs) <br>
 * [Works Cited](#Works-Cited) <br>
 
+![alt text](https://i1.wp.com/blog.magmalabs.io/wp-content/uploads/2018/07/339376-PAJU9J-128.jpg)
+
+
 ## The Basics 
 ### Description
 SDETs are to contribute and review the creation of designs for production softwares. Some responsibilities include software development and testing tasks. They also focus on the testability, robustness, and performance of production software. A SDET is a test professional with advanced programming skills who develops automation testing methods and applications to help with manual testing. 
@@ -35,6 +38,7 @@ ___
 
 ## Starndard Education
 ### Undergraduate Program
+![alt text](https://www.brocksolutions.com/wp-content/uploads/2020/02/University-of-Waterloo.jpg)
 The *University of Waterloo* is the second best school in Canada for engineering. It offers a ***software engineering*** program that is well recognized and can lead you to several job opportunities, one of which being a <ins>software development engineer, test (SDET).</ins>
 ### Entrance Requirements
 ###### The following requirements are for Ontario students:
@@ -104,7 +108,7 @@ The program takes 5 years to complete with alternating work and study terms each
 ___
 
 ## Experiential Learning
-
+![alt text](https://inteng-storage.s3.amazonaws.com/img/iea/9lwjAVnM6E/sizes/ocde_resize_md.jpg)
 ### Essential skills
 ###### *These are a list of skills that you can develop on your own*
 
@@ -152,9 +156,10 @@ We are looking for future Amazon interns to join us for summer 2020. Amazon inte
 As an intern, you will be matched to a manager and a mentor. You will be given the opportunity to have direct impact on the evolution of Amazon's technologies as well as lead mission critical projects early in your career. Your design, code, and raw smarts will contribute to solving some of the most complex technical challenges in the areas of distributed systems, data mining, automation, optimization, scalability, and security - just to name a few.
 In addition to an impactful project, you will have the opportunity to engage with Amazonians in both personal and professional development, expand your network, and take part in fun activities throughout the summer. No matter the location of your internship, we give you the tools to own your summer and learn in a real world setting. Many of our technologies overlap—you would be hard pressed to find a team that is not using Amazon Web Services (AWS), touching the catalogue, or iterating services to better personalize for customers.
 If this excites you, come build the future with us.
-Amazon internships are full-time (40 hours/week) for 12 consecutive weeks with start dates between May and September 2020. Applicants should have at a minimum one quarter/semester remaining after their internship concludes. “
+Amazon internships are full-time (40 hours/week) for 12 consecutive weeks with start dates between May and September 2020. Applicants should have at a minimum one quarter/semester remaining after their internship concludes.“
 
 ### Workshops + Online Tools
+![alt text](https://www.udemy.com/staticx/udemy/images/v6/default-meta-image.png)
 There are several workshops and online courses that will help you develop your skills as a SDET, learn the fundamentals or even help you become one.  For example, using [Udemy] (https://www.udemy.com/course/selenium-automation-tester-interview-preparation/) you will learn the following: 
 
 * Understanding the Realtime Test environments and Agile Implementation
@@ -169,6 +174,7 @@ ___
 
 ## Real Jobs
 ### Entry Level Position: [Software Developer & Tester Engineer] (https://ca.indeed.com/viewjob?cmp=TELUS-International-Inc.&t=Software+Developer+Tester+Engineer&jk=b69d53cbc0f5597f&sjdu=vQIlM60yK_PwYat7ToXhk9I8NiHOQ-7v2o66QU9DKp1ihYZv_xLWNMMWyMfMuxZyl_vnP633RrxD4HT5MvVu80xcvLV-rR64htOg-EbC9KQ&tk=1f463q5i0t4sm800&adid=367011588&ad=-6NYlbfkN0AXOS-p184M3UWpL0ZA__paQeiiLmiJQR66h7CC6KXPATo-tyEtkz3QvFu0UAYLcHDwhLIllqhE-qEzprob4exHJc_9PhcjyDn1odha5ozMI2aL3VFckIXTxBPEJszv_UTweJ_9OhNlurcgvLjtKUlckUO7VeCwl79jdXkwPaT1s46T-8uxrcvrpEz6W-A7kGrFaq3v69PXh5JBZTc2U-AjRQhjVYU4mDpNSVE3XFrTzIWZwGLFxixc0x8lNAXIye6Cyds1lGPWqSjNlJFWvmHNlgYwUELs1kGOSjBPFpNRX4s09NthP9lv7XkH-UF_AUsSnk405chTNtrwc47oMXqC&pub=4a1b367933fd867b19b072952f68dceb&vjs=3) (TELUS)
+![alt text](https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/Telus_logo.svg/1280px-Telus_logo.svg.png)
 #### Average base salary: ~ $57,000 
 #### City: Toronto, Ontario
 #### Job Description: 
@@ -187,6 +193,7 @@ ___
 * Knowledge of AWS or Google Cloud platform
 
 ### Mid Level Position: [Software Developer in Test - Remote] (https://ca.indeed.com/viewjob?jk=0857464b3c86a5bb&tk=1f463u4a1t5d1800&from=serp&vjs=3) (TradeRev)
+![alt text](https://s3.amazonaws.com/tr-static-jekyll-prod/images/open-graph/open-graph-traderev.jpg)
 #### Average base salary:~ $80,000
 #### City: Toronto, Ontario
 #### Job Description:
@@ -214,6 +221,7 @@ ___
 
 
 ### Senior Level Position [Senior Quality Assurance System Testser] (https://ca.indeed.com/viewjob?jk=ecfc7ce6391a81e0&q=software+development+tester&l=Markham,+ON&tk=1f48h6o83t5l9802&from=web&advn=1829987762090890&adid=60660074&ad=-6NYlbfkN0BreR47D9bMWJ28XlwS8rs2_GIFY3-vSdy_Xwl-swcV-nLMwXF3u7ntxl6CekgI_C97nh4nNM25ZrDbFA0cAA5QxQ6eTENfoULwLFzPqnWzYEb-hQSmt9Gal7vXWhVS98_c6vULIIPLr4CIiyzzAFHOGuHesFGuqoCFHtdQsze01OJo-ZIwgt7L7wCgIjEfb1qyDv3OIK7WPnwj6hIYVcF2SbA7WleSQa_SKhNUqqlYT7mCrH3K49IBnNfZZ35oXwWxdOqx0rLOB-DftUGSYvUC_tYh2i-6Uve9Yepen_TC7nsflpeiTRkbTpZcj1SgKE_eO0j1wOKa55F5hLEGs_rK&sjdu=AT40pXAA0AY5deDAsXI9tmWMPZHkUTM5ZFz7H0lWCYBWy6IeDrNvKKG3MSEgRAua9lxveGHaenPrajYY8a5hS3h2YqUuWbqNmhTM1fjowmqz2rCrHksK0RZlECvn_F5vGbcezvnqYQ1g3Vd5SkRL5gL6Dv4aqOkZaYT8lkbnYn0&acatk=1f48h7d8ss79p800&pub=4a1b367933fd867b19b072952f68dceb&vjs=3) (Procom)
+![alt text](https://coda.newjobs.com/api/imagesproxy/ms/clu/xpcc/xpccgx/branding/167263/Procom-logo.png)
 #### Average base salary: ~ $88,000
 #### City: Toronto, Ontario
 #### Job Description/ Roles + Responsibilities:
