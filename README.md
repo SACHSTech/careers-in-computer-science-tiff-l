@@ -174,7 +174,7 @@ There are several workshops and online courses that will help you develop your s
 ___
 
 ## Real Jobs
-### Entry Level Position: [Software Developer & Tester Engineer](https://ca.indeed.com/viewjob?cmp=TELUS-International-Inc.&t=Software+Developer+Tester+Engineer&jk=b69d53cbc0f5597f&sjdu=vQIlM60yK_PwYat7ToXhk9I8NiHOQ-7v2o66QU9DKp1ihYZv_xLWNMMWyMfMuxZyl_vnP633RrxD4HT5MvVu80xcvLV-rR64htOg-EbC9KQ&tk=1f463q5i0t4sm800&adid=367011588&ad=-6NYlbfkN0AXOS-p184M3UWpL0ZA__paQeiiLmiJQR66h7CC6KXPATo-tyEtkz3QvFu0UAYLcHDwhLIllqhE-qEzprob4exHJc_9PhcjyDn1odha5ozMI2aL3VFckIXTxBPEJszv_UTweJ_9OhNlurcgvLjtKUlckUO7VeCwl79jdXkwPaT1s46T-8uxrcvrpEz6W-A7kGrFaq3v69PXh5JBZTc2U-AjRQhjVYU4mDpNSVE3XFrTzIWZwGLFxixc0x8lNAXIye6Cyds1lGPWqSjNlJFWvmHNlgYwUELs1kGOSjBPFpNRX4s09NthP9lv7XkH-UF_AUsSnk405chTNtrwc47oMXqC&pub=4a1b367933fd867b19b072952f68dceb&vjs=3)
+### Entry Level Position: [Software Developer & Tester Engineer](https://ca.indeed.com/viewjob?cmp=TELUS-International-Inc.&t=Software+Developer+Tester+Engineer&jk=b69d53cbc0f5597f&sjdu=vQIlM60yK_PwYat7ToXhk9I8NiHOQ-7v2o66QU9DKp1ihYZv_xLWNMMWyMfMuxZyl_vnP633RrxD4HT5MvVu80xcvLV-rR64htOg-EbC9KQ&tk=1f463q5i0t4sm800&adid=367011588&ad=-6NYlbfkN0AXOS-p184M3UWpL0ZA__paQeiiLmiJQR66h7CC6KXPATo-tyEtkz3QvFu0UAYLcHDwhLIllqhE-qEzprob4exHJc_9PhcjyDn1odha5ozMI2aL3VFckIXTxBPEJszv_UTweJ_9OhNlurcgvLjtKUlckUO7VeCwl79jdXkwPaT1s46T-8uxrcvrpEz6W-A7kGrFaq3v69PXh5JBZTc2U-AjRQhjVYU4mDpNSVE3XFrTzIWZwGLFxixc0x8lNAXIye6Cyds1lGPWqSjNlJFWvmHNlgYwUELs1kGOSjBPFpNRX4s09NthP9lv7XkH-UF_AUsSnk405chTNtrwc47oMXqC&pub=4a1b367933fd867b19b072952f68dceb&vjs=3) (Telus)
 ![alt text](https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/Telus_logo.svg/1280px-Telus_logo.svg.png)
 #### Average base salary: ~ $57,000 
 #### City: Toronto, Ontario
@@ -193,7 +193,7 @@ ___
 * Familiarity with container orchestration services, especially Kubernetes
 * Knowledge of AWS or Google Cloud platform
 
-### Mid Level Position: [Software Developer in Test - Remote] (https://ca.indeed.com/viewjob?jk=0857464b3c86a5bb&tk=1f463u4a1t5d1800&from=serp&vjs=3) (TradeRev)
+### Mid Level Position: [Software Developer in Test - Remote](https://ca.indeed.com/viewjob?jk=0857464b3c86a5bb&tk=1f463u4a1t5d1800&from=serp&vjs=3) (TradeRev)
 ![alt text](https://s3.amazonaws.com/tr-static-jekyll-prod/images/open-graph/open-graph-traderev.jpg)
 #### Average base salary:~ $80,000
 #### City: Toronto, Ontario
@@ -221,7 +221,7 @@ ___
 * Deal well with ambiguous/undefined problems; ability to think abstractly
 
 
-### Senior Level Position [Senior Quality Assurance System Testser] (https://ca.indeed.com/viewjob?jk=ecfc7ce6391a81e0&q=software+development+tester&l=Markham,+ON&tk=1f48h6o83t5l9802&from=web&advn=1829987762090890&adid=60660074&ad=-6NYlbfkN0BreR47D9bMWJ28XlwS8rs2_GIFY3-vSdy_Xwl-swcV-nLMwXF3u7ntxl6CekgI_C97nh4nNM25ZrDbFA0cAA5QxQ6eTENfoULwLFzPqnWzYEb-hQSmt9Gal7vXWhVS98_c6vULIIPLr4CIiyzzAFHOGuHesFGuqoCFHtdQsze01OJo-ZIwgt7L7wCgIjEfb1qyDv3OIK7WPnwj6hIYVcF2SbA7WleSQa_SKhNUqqlYT7mCrH3K49IBnNfZZ35oXwWxdOqx0rLOB-DftUGSYvUC_tYh2i-6Uve9Yepen_TC7nsflpeiTRkbTpZcj1SgKE_eO0j1wOKa55F5hLEGs_rK&sjdu=AT40pXAA0AY5deDAsXI9tmWMPZHkUTM5ZFz7H0lWCYBWy6IeDrNvKKG3MSEgRAua9lxveGHaenPrajYY8a5hS3h2YqUuWbqNmhTM1fjowmqz2rCrHksK0RZlECvn_F5vGbcezvnqYQ1g3Vd5SkRL5gL6Dv4aqOkZaYT8lkbnYn0&acatk=1f48h7d8ss79p800&pub=4a1b367933fd867b19b072952f68dceb&vjs=3) (Procom)
+### Senior Level Position [Senior Quality Assurance System Testser](https://ca.indeed.com/viewjob?jk=ecfc7ce6391a81e0&q=software+development+tester&l=Markham,+ON&tk=1f48h6o83t5l9802&from=web&advn=1829987762090890&adid=60660074&ad=-6NYlbfkN0BreR47D9bMWJ28XlwS8rs2_GIFY3-vSdy_Xwl-swcV-nLMwXF3u7ntxl6CekgI_C97nh4nNM25ZrDbFA0cAA5QxQ6eTENfoULwLFzPqnWzYEb-hQSmt9Gal7vXWhVS98_c6vULIIPLr4CIiyzzAFHOGuHesFGuqoCFHtdQsze01OJo-ZIwgt7L7wCgIjEfb1qyDv3OIK7WPnwj6hIYVcF2SbA7WleSQa_SKhNUqqlYT7mCrH3K49IBnNfZZ35oXwWxdOqx0rLOB-DftUGSYvUC_tYh2i-6Uve9Yepen_TC7nsflpeiTRkbTpZcj1SgKE_eO0j1wOKa55F5hLEGs_rK&sjdu=AT40pXAA0AY5deDAsXI9tmWMPZHkUTM5ZFz7H0lWCYBWy6IeDrNvKKG3MSEgRAua9lxveGHaenPrajYY8a5hS3h2YqUuWbqNmhTM1fjowmqz2rCrHksK0RZlECvn_F5vGbcezvnqYQ1g3Vd5SkRL5gL6Dv4aqOkZaYT8lkbnYn0&acatk=1f48h7d8ss79p800&pub=4a1b367933fd867b19b072952f68dceb&vjs=3) (Procom)
 ![alt text](https://coda.newjobs.com/api/imagesproxy/ms/clu/xpcc/xpccgx/branding/167263/Procom-logo.png)
 #### Average base salary: ~ $88,000
 #### City: Toronto, Ontario
