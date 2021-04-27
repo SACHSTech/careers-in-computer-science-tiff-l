@@ -1,6 +1,5 @@
 [![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=4658959&assignment_repo_type=AssignmentRepo)
 # Careers in Computer Science
-#### [Mid Level](https://ca.indeed.com/viewjob?cmp=Kortext&t=Software+Development+Manager&jk=91337a87dd15b466&sjdu=0ZFwD5rbjMRcHz87Kzx_g56RE8uTOzMI6lFRz5oKCG6jKXSJpNAiKq15MUxAzfb25EkT8GdeKrIg3Xi44zf0iA&tk=1f3vt90e13kl8000&adid=367673658&ad=-6NYlbfkN0ATA-436Np_sDHyRyXgfnC7r)
 
 ### Software Development Engineer, Test (SDET)
 ## Table of Contents
@@ -175,7 +174,7 @@ There are several workshops and online courses that will help you develop your s
 ___
 
 ## Real Jobs
-### Entry Level Position: [Software Developer & Tester Engineer] (https://ca.indeed.com/viewjob?cmp=TELUS-International-Inc.&t=Software+Developer+Tester+Engineer&jk=b69d53cbc0f5597f&sjdu=vQIlM60yK_PwYat7ToXhk9I8NiHOQ-7v2o66QU9DKp1ihYZv_xLWNMMWyMfMuxZyl_vnP633RrxD4HT5MvVu80xcvLV-rR64htOg-EbC9KQ&tk=1f463q5i0t4sm800&adid=367011588&ad=-6NYlbfkN0AXOS-p184M3UWpL0ZA__paQeiiLmiJQR66h7CC6KXPATo-tyEtkz3QvFu0UAYLcHDwhLIllqhE-qEzprob4exHJc_9PhcjyDn1odha5ozMI2aL3VFckIXTxBPEJszv_UTweJ_9OhNlurcgvLjtKUlckUO7VeCwl79jdXkwPaT1s46T-8uxrcvrpEz6W-A7kGrFaq3v69PXh5JBZTc2U-AjRQhjVYU4mDpNSVE3XFrTzIWZwGLFxixc0x8lNAXIye6Cyds1lGPWqSjNlJFWvmHNlgYwUELs1kGOSjBPFpNRX4s09NthP9lv7XkH-UF_AUsSnk405chTNtrwc47oMXqC&pub=4a1b367933fd867b19b072952f68dceb&vjs=3) (TELUS)
+### Entry Level Position: [Software Developer & Tester Engineer] (https://ca.indeed.com/viewjob?cmp=TELUS-International-Inc.&t=Software+Developer+Tester+Engineer&jk=b69d53cbc0f5597f&sjdu=vQIlM60yK_PwYat7ToXhk9I8NiHOQ-7v2o66QU9DKp1ihYZv_xLWNMMWyMfMuxZyl_vnP633RrxD4HT5MvVu80xcvLV-rR64htOg-EbC9KQ&tk=1f463q5i0t4sm800&adid=367011588&ad=-6NYlbfkN0AXOS-p184M3UWpL0ZA__paQeiiLmiJQR66h7CC6KXPATo-tyEtkz3QvFu0UAYLcHDwhLIllqhE-qEzprob4exHJc_9PhcjyDn1odha5ozMI2aL3VFckIXTxBPEJszv_UTweJ_9OhNlurcgvLjtKUlckUO7VeCwl79jdXkwPaT1s46T-8uxrcvrpEz6W-A7kGrFaq3v69PXh5JBZTc2U-AjRQhjVYU4mDpNSVE3XFrTzIWZwGLFxixc0x8lNAXIye6Cyds1lGPWqSjNlJFWvmHNlgYwUELs1kGOSjBPFpNRX4s09NthP9lv7XkH-UF_AUsSnk405chTNtrwc47oMXqC&pub=4a1b367933fd867b19b072952f68dceb&vjs=3) 
 ![alt text](https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/Telus_logo.svg/1280px-Telus_logo.svg.png)
 #### Average base salary: ~ $57,000 
 #### City: Toronto, Ontario
