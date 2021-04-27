@@ -99,7 +99,7 @@ The program takes 5 years to complete with alternating work and study terms each
 
 |Sample co-op job titles|Sample co-op employers|
 |-----------------------|----------------------|
-|<ul><li> Tools and automation engineering intern </li> <li> Data scientist </li> <li> Mobile developer </li> <li> Software developer </li> <li> iOS developer </li> <li> Production engineering </li> <li> Algorithms engineering </li> <li>|<ul><li> Mozilla Corporation </li> <li> Bloomberg</li> <li> LinkedIn</li> <li> Waterloo Regional Police Service</li> <li> Element AI</li> <li> ContextLogic</li> <li>|
+|<ul><li> Tools and automation engineering intern </li> <li> Data scientist </li> <li> Mobile developer </li> <li> Software developer </li> <li> iOS developer </li> <li> Production engineering </li> <li> Algorithms engineering </li> </ul>|<ul><li> Mozilla Corporation </li> <li> Bloomberg</li> <li> LinkedIn</li> <li> Waterloo Regional Police Service</li> <li> Element AI</li> <li> ContextLogic</li> </ul>|
 
 ___
 
