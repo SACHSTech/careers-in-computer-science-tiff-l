@@ -271,7 +271,7 @@ ___
 “Software Developer & Tester Engineer.” *Indeed*, https://ca.indeed.com/viewjob?cmp=TELUS-International-Inc.&t=Software%2BDeveloper%2BTester%2BEngineer&jk=b69d53cbc0f5597f&sjdu=vQIlM60yK_PwYat7ToXhk9I8NiHOQ-7v2o66QU9DKp1ihYZv_xLWNMMWyMfMuxZyl_vnP633RrxD4HT5MvVu80xcvLV-rR64htOg-EbC9KQ&tk=1f463q5i0t4sm800&adid=367011588&ad=-6NYlbfkN0AXOS-p184M3UWpL0ZA__paQeiiLmiJQR66h7CC6KXPATo-tyEtkz3QvFu0UAYLcHDwhLIllqhE-qEzprob4exHJc_9PhcjyDn1odha5ozMI2aL3VFckIXTxBPEJszv_UTweJ_9OhNlurcgvLjtKUlckUO7VeCwl79jdXkwPaT1s46T-8uxrcvrpEz6W-A7kGrFaq3v69PXh5JBZTc2U-AjRQhjVYU4mDpNSVE3XFrTzIWZwGLFxixc0x8lNAXIye6Cyds1lGPWqSjNlJFWvmHNlgYwUELs1kGOSjBPFpNRX4s09NthP9lv7XkH-UF_AUsSnk405chTNtrwc47oMXqC&pub=4a1b367933fd867b19b072952f68dceb&vjs=3. <br> <br>
 “Software Developer in Test (Remote).” *Indeed*, https://ca.indeed.com/viewjob?jk=0857464b3c86a5bb&tk=1f463u4a1t5d1800&from=serp&vjs=3. <br> <br>
 “Software Development Engineer Intern At Amazon Web Services Canada, In.” *Peersight*, https://www.peersight.in/job/amazon-web-services-canada-in-software-development-engineer-intern-in-vancouver-bc. <br> <br>
-“Software Engineering.” *Undergraduate Programs*, 26 Apr. 2021, https://uwaterloo.ca/future-students/programs/software-engineering.<br> <br>
+“Software Engineering.” *Undergraduate Programs*, 26 Apr. 2021, https://uwaterloo.ca/future-students/programs/software-engineering.<br><br>
 “Telus.” *Wikipedia*, https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/Telus_logo.svg/410px-Telus_logo.svg.png. <br><br>
 *TradeRev*, https://s3.amazonaws.com/tr-static-jekyll-prod/images/open-graph/open-graph-traderev.jpg. <br><br>
 *Udemy*, https://www.udemy.com/staticx/udemy/images/v6/logo-coral.svg. <br><br> 
